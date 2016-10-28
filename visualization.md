@@ -43,10 +43,10 @@ Moreover, we find that having students create their own interactive visualizatio
 
 In a pedagogical context we tend to approach visualization with two distinct but interrelated questions:
 
-1. **Literacy**: How can we be better informed and more critical consumers of visualizations? Visualizations are everywhere, do we notice them? What are visualizations showing us and what are they hiding? What are some of the common pitfalls of visualizations?
-2. **Rhetoric**: How can we be producers of effective visualizations?
+1. **Literacy**: How can we be better informed and more critical consumers of visualizations? What is the history of different genres of visualization? Visualizations are everywhere, do we notice them? What are visualizations showing us and what are they hiding? What are some of the common pitfalls of visualizations?
+2. **Rhetoric**: How can we be producers of effective visualizations? Can we imagine new ways of using visualization in humanistic interpretation? What traditions of interpreting visualization do we work with?
 
-These two components, how we read (literacy) and how we express (rhetoric) can develop symbiotically, we can better understand visualizations when we've had the experience of creating them. That's why we tend to design our courses on data visualization in a cross-over pattern: we emphasize theoretical work and exploration of existing data visualizations early on while ramping-up creative practice as the term progresses.
+These two sets of question, how we read (literacy) and how we express (rhetoric) can develop symbiotically, we can better understand visualizations when we've had the experience of creating them and in modelling we can better understand what other designers were trying to do. That's why we tend to design our teaching on data visualization in a cross-over pattern: we emphasize theoretical work and exploration of existing data visualizations early on while ramping-up creative practice as the term progresses.
 
 ![Cross-over of theory and practice during the term](images/visualization-Course.png)
 
