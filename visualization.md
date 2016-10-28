@@ -169,6 +169,7 @@ BatchGeo is a user-friendly and free resource for experimenting with mapping geo
 
 Below is a list of visualization galleries. We find that having students travel through the galleries is a good way of familiarizing thems with the variety of data visualizations out there (even if the vast majority have little to do with humanities scholarship). We ask students to compile an annotated set of their favourites, which can often be a source of inspiration for their own work.
 
+* [Milestones in the History of Thematic Cartography, Statistical Graphics and Data Visualization](http://www.datavis.ca/milestones/)
 * [Datavisualization.ch](http://selection.datavisualization.ch/)
 * [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Information Aesthetics](http://infosthetics.com/)
