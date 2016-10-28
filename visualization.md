@@ -76,7 +76,7 @@ We ask students to navigate through several galleries of visualizations (see "Re
 
 Johanna Drucker's article is an excellent way of framing epistemological issues of visualization in the humanities. She urges us to rethink the notion of *data* as what is given and instead think of *capta* as what is taken and constructed. Drucker argues that this move will lead us to forms of graphical expression that are more nuanced and truer to humanistic perspectives on knowledge. By providing examples of how to reconceptualize visualizations such as bar charts, timelines, and maps, Drucker shows how every aspect of visualization is subject to interpretation, even though most visualizations mask the uncertainty and the decision-making processes.
 
-In discussing this article it may be useful to provide some philosophical context for subjectivity and epistemology, especially with respect to cultural interpretation. A useful exercise is to provide students a conventional example of data visualization and have them imagine how the it might be reworked to convey the notion of capta.
+In discussing this article it may be useful to provide some philosophical context for subjectivity and epistemology, especially with respect to cultural interpretation. A useful exercise is to provide students a conventional example of data visualization and have them imagine how it might be reworked to expose how the interpretative act of visualization -- how the data was captured, manipulated, by who and for who.
 
 ### "Information Visualization for Humanities Scholars"
 
@@ -96,7 +96,7 @@ This article explores information visualization for the specific purposes of hum
 * Source: http://visualisingadvocacy.org/
 * Creators: Maya Indira Ganesh, Stephanie Hankey, Tom Longley and Marek Tuszynski
 
-This is a rich website that provides a wide range of resources from guidance to [working with data](http://visualisingadvocacy.org/working-data) to a list of [visualization tools](http://visualisingadvocacy.org/resources/visualisationtools). There is also an [open access book](http://visualisingadvocacy.org/getbook) that discusses visual rhetoric and -- based on several case studies -- guides the reader through the stages of a project from getting an idea and constructing a dataset to developing a visualization and disseminating it. Though the book may not place as much emphasis on interpretation as Ducker (see previous item), it does insist on creativity, rhetoric, and audiences. We also appreciate how it bridges visual information design and activism in ways that will resonate with anyone interested in the public humanities. We typically ask students to read the book while starting a list of possible social causes that could interest them for a course project.
+This is a rich website that provides a wide range of resources from guidance on [working with data](http://visualisingadvocacy.org/working-data) to a list of [visualization tools](http://visualisingadvocacy.org/resources/visualisationtools). There is also an [open access book](http://visualisingadvocacy.org/getbook) that discusses visual rhetoric and -- based on several case studies -- guides the reader through the stages of a project from getting an idea and constructing a dataset to developing a visualization and disseminating it. Though the book may not place as much emphasis on interpretation as Drucker (see previous item), it does insist on creativity, rhetoric, and audiences. We also appreciate how it bridges visual information design and activism in ways that will resonate with anyone interested in the public humanities. We typically ask students to read the book while starting a list of possible social causes that could interest them for a course project.
 
 ### “The Ethics of Visualization”
 
@@ -117,6 +117,8 @@ This is a video of a talk given by Chris Alen Sula that starts with a brief but 
 * Creator and Affiliation: Lauren Klein (Georgia Tech)
 
 Though not solely on visualization, Lauren Klein's syllabus touches on a many essential topics related to uses of data in the digital humanities. Several topics explore the relationship between facts and data, there's an overview of major kinds of visualization, and she addresses cultural and social issues that arise from data (from art to surveillance). Interspersed with the academic readings are several excerpts of fiction, such as *Minority Report*, *The Matrix*, and *Gattaca*.
+
+Klein has also explored the way the history of visualization has been presented and alternative histories. A [talk she gave to the 3DH project is here](https://lecture2go.uni-hamburg.de/l2go/-/get/v/19629) where she talked about the [Speculative Designs project](http://dhlab.lmc.gatech.edu/speculative-designs/) which is recovering the work of Elizabeth Peabody. There is a prototype that lets students build Peabody mural charts. This project creates a context for discussing the stories told about visualization.
 
 ### “Infogr.am”
 
@@ -140,7 +142,7 @@ We usually introduce infographics by discussing the rhetorical style of ["The Hu
 
 RAW says in its tagline that it is "The missing link between spreadsheets and vector graphics". It may not be the only missing link out there, but it certainly is powerful and user-friendly. Students can choose from one of the sample datasets (cars, movies, music, cocktails), or copy and paste data from their own spreadsheet. Next students can choose from one of 16 interesting chart types and customize which data column should be used for structure, colour, size and other chart dimensions.
 
-RAW provides ample opportunity for students to think about the nature and format of different datasets, and how different visualizations with different options can be more or less effective. RAW is also an excellent on-ramp for [web-based D3 visualizations](https://d3js.org/).
+RAW provides ample opportunity for students to think about the nature and format of different datasets, the rhetorical baggage of different genres of visualization, and how different visualizations with different options can show the same data very differently. RAW is also an excellent on-ramp for [web-based D3 visualizations](https://d3js.org/).
 
 ### “Voyant Tools”
 
@@ -150,9 +152,9 @@ RAW provides ample opportunity for students to think about the nature and format
 * Source URL: https://voyant-tools.org
 * Creator and Affiliation: Stéfan Sinclair & Geoffrey Rockwell
 
-Voyant Tools is a web-based text analysis and visualization environment. One of its strengths is in moving quickly from one or more text documents to a wide variety of tools and visualizations for interpretation. Some of the visualizations are more common (like the [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus) wordcloud or the [Trends](https://voyant-tools.org/docs/#!/guide/trends) line chart of terms) while others are more unusual and playful (like [Knots](http://voyant-tools.org/docs/#!/guide/knots) or [TextualArc](https://voyant-tools.org/docs/#!/guide/textualarc) inspired by the classic [TextArc](https://textarc.org/) by Bradford Paley).
+Voyant Tools is a web-based text analysis and visualization environment. One of its strengths is in moving quickly from one or more text documents to a wide variety of tools and visualizations for interpretation. Some of the visualizations are more common (like the [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus) word cloud or the [Trends](https://voyant-tools.org/docs/#!/guide/trends) line chart of terms) while others are more unusual and playful (like [Knots](http://voyant-tools.org/docs/#!/guide/knots) or [TextualArc](https://voyant-tools.org/docs/#!/guide/textualarc) inspired by the classic [TextArc](https://textarc.org/) by Bradford Paley).
 
-Voyant Tools can be suggestive of ways of visualizing data that starts as unstructured text (i.e. not tabular data). We ask students to skim through the [full list of tools](https://voyant-tools.org/docs/#!/guide/tools) and then to explore Voyant with a corpus of their own essays to see if they can discover unsuspected characteristics of their writing.
+Voyant Tools can suggest ways of visualizing data when you start with unstructured text (i.e. not tabular data). We ask students to skim through the [full list of tools](https://voyant-tools.org/docs/#!/guide/tools) and then to explore Voyant with a corpus of their own essays to see if they can discover unsuspected characteristics of their writing.  It also can be used to show how different visualizations can interact in different views that combine tools.
 
 ### BatchGeo
 
@@ -165,7 +167,7 @@ BatchGeo is a user-friendly and free resource for experimenting with mapping geo
 
 ## RELATED MATERIALS
 
-Below is essentially a list of visualization galleries. We find that having students travel through the galleries is a good way of familiarizing themselves with the immense variety of data visualizations out there (even if the vast majority have little to do with humanities scholarship). We ask students to compile an annotated set of their favourites, which can often be a source of inspiration for their own work.
+Below is a list of visualization galleries. We find that having students travel through the galleries is a good way of familiarizing thems with the variety of data visualizations out there (even if the vast majority have little to do with humanities scholarship). We ask students to compile an annotated set of their favourites, which can often be a source of inspiration for their own work.
 
 * [Datavisualization.ch](http://selection.datavisualization.ch/)
 * [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
