@@ -37,7 +37,7 @@ University of Alberta | [geoffreyrockwell.com](http://geoffreyrockwell.com)
 
 ## CURATORIAL STATEMENT 
 
-Although for many humanities disciplines (literature, history, philosohpy, etc.) text tends to be the dominant currency for apprehending and expressing knowledge, data visualizations have a long history and much to offer, particularly when the amount of text exceeds what can be reasonably read and represented by more traditional means. As is argued in two of the artifacts below ("Information Visualization for Humanities Scholars" and "Humanities Approaches to Graphical Display"), interactive visualizations can be a powerful and valuable way of multiplying the nuanced perspectives we have on our objects of study.
+Although for many humanities disciplines (literature, history, philosophy, etc.) text tends to be the dominant currency for apprehending and expressing knowledge, data visualizations have a long history and much to offer, particularly when the amount of text exceeds what can be reasonably read and represented by more traditional means. As is argued in two of the artifacts below ("Information Visualization for Humanities Scholars" and "Humanities Approaches to Graphical Display"), interactive visualizations can be a powerful and valuable way of multiplying the nuanced perspectives we have on our objects of study.
 
 Moreover, we find that having students create their own interactive visualizations is an effective way of having them leverage their humanities background to engage with a variety of contemporary issues, from the environment to various social inequalities. Visualizations are an eminently shareable form of communication and students are empowered to join public discourses, especially via social media.
 
