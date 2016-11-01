@@ -62,7 +62,7 @@ The last set of questions have to do with thinking about visualizations as human
 
 **Progression:** One way to teach a practice based stream where students use visualizations is to progress from using relatively simple tools (like [Infogr.am](https://infogr.am/) and [Voyant](https://voyant-tools.org) to adapting the data, code and styling of [D3 visualizations](https://d3js.org/), using [RAW](http://raw.densitydesign.org/) as a bridge. 
 
-**Questions: ** Some questions we have found that provide a context for discussion include:
+**Questions:** Some questions we have found that provide a context for discussion include:
 
 * Can a visualization stand alone or does it need a text to contextualize it? 
 * How is text graphical? How is an outline or a list a visualization?
