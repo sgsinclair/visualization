@@ -41,18 +41,28 @@ Although for many humanities disciplines (literature, history, philosophy, etc.)
 
 Given the proliferation of visualizations in online media, especially for exploring big data, it has become important to teach students to treat them critically. One way to do that is to have students fiddle with different types of visualization and reflect on the graphical features and how they might reflect evidence or not. Having students then create their own visualizations is an effective way of encouraging them to leverage their humanities training in the interpretation of a variety of contemporary issues, from the environment to various social inequalities. Visualizations are an eminently shareable form of communication and students can be empowered to communicate through visualizations, sharing results via social media.
 
-In a pedagogical context we tend to approach visualization with three distinct but interrelated questions:
+In a pedagogical context we tend to approach visualization with four related sets of questions:
 
 1. **Presence**: Where do we see visualizations? What are they designed to communicate? Who is designing them and for what audience?
-2. **Literacy**: How can we be better informed and more critical consumers of visualizations? What are visualizations showing us and what are they hiding? What features are based on the evidence and what come from the designer? What are some of the common pitfalls of visualizations?
+2. **Literacy**: How can we read visualizations? How can we be better informed and more critical consumers of visualizations? What are visualizations showing us and what are they hiding? What features are based on the evidence and what come from the designer? What are some of the common pitfalls of visualizations?
 3. **Rhetoric**: How can we communicate effectively with visualizations? Can we imagine new ways of using visualization in humanistic interpretation? 
-4. **Visual Traditions**: What is the history of different genres of visualization? Where do types of visualization like the bar chart come from? How does the interpretation of these 
+4. **Visual Traditions**: What is the history of different genres of visualization? Where do types of visualization like the bar chart come from? How do traditions of interpretation influence how visualizations are read?
 
-Two of these sets of question, how we read (literacy) and how we express (rhetoric) should be developed symbiotically. We can better understand visualizations when we've had the experience of creating them and in modelling visualizations we can better understand what other designers were trying to do. That's why we tend to design our teaching on data visualization in a cross-over pattern: we emphasize theoretical work and exploration of existing data visualizations early on while ramping-up creative practice as the term progresses.
+The first set of questions is designed to make students aware of the variety of visualizations they encounter in everyday life from HUDs (Heads Up Displays) in a videogame to business graphics on news sites. 
+
+The second and third sets of questions, how we read (literacy) and how we express (rhetoric) can be taught symbiotically. We can better understand visualizations when we've had the experience of creating them and in modelling visualizations we can better understand what other designers were trying to do. That's why we tend to design our teaching on data visualization in a cross-over pattern: we emphasize theoretical work and exploration of existing data visualizations early on while ramping-up creative practice as the term progresses.
 
 ![Cross-over of theory and practice during the term](images/visualization-Course.png)
 
-Within the practice stream we also progress from using relatively simple tools (like [Infogr.am](https://infogr.am/) and [Voyant](https://voyant-tools.org) to adapting the data, code and styling of [D3 visualizations](https://d3js.org/), using [RAW](http://raw.densitydesign.org/) as a bridge.
+The last set of questions have to do with thinking about visualizations as humanists and asking critical questions about how they can be interpreted. Students should be encouraged to think about visualizations not as representations of data, but as ways of making knowledge. Thiking about visualization as a way of interpreting (in the dual sense of interpreting evidence and also creating interpretations) leads to thinking about traditions of visual knowledge production. Students should be encouraged to ask about where types of visualizations like a social network graph come from and how they evolved to convey certain meanings. When labeled nodes are connected with lines in a network graph, what are we habituated to read into the graph? When the network is a geneaology of emperors how do we know how to read the generations? Johanna Drucker's *Graphesis* is a good introduction to the critical understanding of visual knowledge production. Depending on how much time you have there is an essay form of [*Graphesis* from 2010](https://journals.tdl.org/paj/index.php/paj/article/view/4/50) and a later more developed [book from 2014](http://www.hup.harvard.edu/catalog.php?isbn=9780674724938).
+
+### Graphical Features
+
+An important part of learning to read and create visualizations is to understand what graphical features like colour, orientation, or location mean. For example, in a word cloud, does the colour of words mean something about the text or is it an aesthetic selection of the programmer? We often start workshops by showing simple visualizations and asking students to identify the features used and then guess at how the visualization uses them to show meaning. This can lead to a discussion of what one could do with graphical features and what graphical features are best suited for representing what types of evidence. See Bertin (2010) for an influential discussion of the type of graphical features from size, position, colour, shape, orientation and texture.
+
+### 
+
+progress from using relatively simple tools (like [Infogr.am](https://infogr.am/) and [Voyant](https://voyant-tools.org) to adapting the data, code and styling of [D3 visualizations](https://d3js.org/), using [RAW](http://raw.densitydesign.org/) as a bridge.
 
 ## CURATED ARTIFACTS 
 
@@ -179,3 +189,12 @@ Below is a list of visualization galleries. We find that having students travel 
 * [Visual Complexity](http://www.visualcomplexity.com/vc/)
 
 ## WORKS CITED
+
+Bertin, J. (2010). Semiology of Graphics: Diagrams, Networks, Maps. [Reprint from Esri Press](http://www.esri.com/news/releases/10_4qtr/bertin.html).
+
+Drucker, J. (2010). "Graphesis: Visual Knowledge Production and Representation." Poetess Archive Journal. 2:1.[PDF Available](https://journals.tdl.org/paj/index.php/paj/article/view/4/50). 
+
+Drucker, J. (2014). "Graphesis: Visual Forms of Knowledge Production." [Harvard University Press](http://www.hup.harvard.edu/catalog.php?isbn=9780674724938). 
+
+
+
