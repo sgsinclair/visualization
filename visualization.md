@@ -48,21 +48,28 @@ In a pedagogical context we tend to approach visualization with four related set
 3. **Rhetoric**: How can we communicate effectively with visualizations? Can we imagine new ways of using visualization in humanistic interpretation? 
 4. **Visual Traditions**: What is the history of different genres of visualization? Where do types of visualization like the bar chart come from? How do traditions of interpretation influence how visualizations are read?
 
-The first set of questions is designed to make students aware of the variety of visualizations they encounter in everyday life from HUDs (Heads Up Displays) in a videogame to business graphics on news sites. 
+The first set of questions is designed to make students aware of the variety of visualizations they encounter in everyday life from HUDs (Heads Up Displays) in a videogame to business graphics on news sites. There are lots of web sites with examples (see Related Sites for galleries), but also books with reproductions of interesting visualizations like Tufte's *The Visual Display of Quantitative Information* (1983). 
 
 The second and third sets of questions, how we read (literacy) and how we express (rhetoric) can be taught symbiotically. We can better understand visualizations when we've had the experience of creating them and in modelling visualizations we can better understand what other designers were trying to do. That's why we tend to design our teaching on data visualization in a cross-over pattern: we emphasize theoretical work and exploration of existing data visualizations early on while ramping-up creative practice as the term progresses.
 
 ![Cross-over of theory and practice during the term](images/visualization-Course.png)
 
-The last set of questions have to do with thinking about visualizations as humanists and asking critical questions about how they can be interpreted. Students should be encouraged to think about visualizations not as representations of data, but as ways of making knowledge. Thiking about visualization as a way of interpreting (in the dual sense of interpreting evidence and also creating interpretations) leads to thinking about traditions of visual knowledge production. Students should be encouraged to ask about where types of visualizations like a social network graph come from and how they evolved to convey certain meanings. When labeled nodes are connected with lines in a network graph, what are we habituated to read into the graph? When the network is a geneaology of emperors how do we know how to read the generations? Johanna Drucker's *Graphesis* is a good introduction to the critical understanding of visual knowledge production. Depending on how much time you have there is an essay form of [*Graphesis* from 2010](https://journals.tdl.org/paj/index.php/paj/article/view/4/50) and a later more developed [book from 2014](http://www.hup.harvard.edu/catalog.php?isbn=9780674724938).
+The last set of questions have to do with thinking about visualizations as humanists and asking critical questions about how they can be interpreted. Students should be encouraged to think about visualizations not as objective representations of data, but as ways of making knowledge. Thiking about visualization as a way of interpreting (in the dual sense of interpreting evidence and also creating interpretations) leads to thinking about traditions of visual knowledge production. Students should be encouraged to ask about the conventions of types of visualizations like a social network graphs and how they have been adapted. When labeled nodes are connected with lines in a network graph, what are the conventions for reading into the graph? When the network is a geneaology of emperors how do we know how to read the generations? Johanna Drucker's *Graphesis* is a good introduction to the critical understanding of visual knowledge production. Depending on how much time you have there is an essay form of [*Graphesis* from 2010](https://journals.tdl.org/paj/index.php/paj/article/view/4/50) and a later more developed [book from 2014](http://www.hup.harvard.edu/catalog.php?isbn=9780674724938).
 
-### Graphical Features
+### Heuristics for Teaching Visualization
 
-An important part of learning to read and create visualizations is to understand what graphical features like colour, orientation, or location mean. For example, in a word cloud, does the colour of words mean something about the text or is it an aesthetic selection of the programmer? We often start workshops by showing simple visualizations and asking students to identify the features used and then guess at how the visualization uses them to show meaning. This can lead to a discussion of what one could do with graphical features and what graphical features are best suited for representing what types of evidence. See Bertin (2010) for an influential discussion of the type of graphical features from size, position, colour, shape, orientation and texture.
+**Graphical Features:** An important part of learning to read and create visualizations is to understand what graphical features like colour, orientation, or location mean. For example, in a word cloud, does the colour of words mean something about the text or is it an aesthetic selection of the programmer? We often start workshops by showing simple visualizations and asking students to identify the features used and then guess at how the visualization uses them to show meaning. This can lead to a discussion of what one could do with graphical features and what graphical features are best suited for representing what types of evidence. See Bertin's *Semiology of Graphics* (2010) for an influential discussion of the types of variables from size, position, colour, shape, orientation and texture.
 
-### 
+**Progression:** One way to teach a practice based stream where students use visualizations is to progress from using relatively simple tools (like [Infogr.am](https://infogr.am/) and [Voyant](https://voyant-tools.org) to adapting the data, code and styling of [D3 visualizations](https://d3js.org/), using [RAW](http://raw.densitydesign.org/) as a bridge. 
 
-progress from using relatively simple tools (like [Infogr.am](https://infogr.am/) and [Voyant](https://voyant-tools.org) to adapting the data, code and styling of [D3 visualizations](https://d3js.org/), using [RAW](http://raw.densitydesign.org/) as a bridge.
+**Questions: ** Some questions we have found that provide a context for discussion include:
+
+* Can a visualization stand alone or does it need a text to contextualize it? 
+* How is text graphical? How is an outline or a list a visualization?
+* What does interactivity add? How is a serious game a visualization?
+* Does a visualization have to be beautiful to communicate?
+* Do visualizations represent a truth about some phenomenon or do they model something?
+* What is it difficult to show with a visualization? How can visualizations mislead readers?
 
 ## CURATED ARTIFACTS 
 
@@ -166,7 +173,7 @@ RAW provides ample opportunity for students to think about the nature and format
 
 Voyant Tools is a web-based text analysis and visualization environment. One of its strengths is in moving quickly from one or more text documents to a wide variety of tools and visualizations for interpretation. Some of the visualizations are more common (like the [Cirrus](https://voyant-tools.org/docs/#!/guide/cirrus) word cloud or the [Trends](https://voyant-tools.org/docs/#!/guide/trends) line chart of terms) while others are more unusual and playful (like [Knots](http://voyant-tools.org/docs/#!/guide/knots) or [TextualArc](https://voyant-tools.org/docs/#!/guide/textualarc) inspired by the classic [TextArc](https://textarc.org/) by Bradford Paley).
 
-Voyant Tools can suggest ways of visualizing data when you start with unstructured text (i.e. not tabular data). We ask students to skim through the [full list of tools](https://voyant-tools.org/docs/#!/guide/tools) and then to explore Voyant with a corpus of their own essays to see if they can discover unsuspected characteristics of their writing.  It also can be used to show how different visualizations can interact in different views that combine tools.
+Voyant Tools can suggest ways of visualizing data when you start with unstructured text (i.e. not tabular data). We ask students to skim through the [full list of tools](https://voyant-tools.org/docs/#!/guide/tools) and then to explore Voyant with a corpus of their own essays to see if they can discover unsuspected characteristics of their writing.  It also can be used to show how different visualizations can interact in different views that combine tools. Finally, Voyant can export interactive panels that can then be embedded in online essays if you want students to use visualizations in the context of a essay. You can see examples of how we do that in the web site for [*Hermeneutica* (2016)](http://hermeneuti.ca). 
 
 ### BatchGeo
 
@@ -196,5 +203,7 @@ Drucker, J. (2010). "Graphesis: Visual Knowledge Production and Representation."
 
 Drucker, J. (2014). "Graphesis: Visual Forms of Knowledge Production." [Harvard University Press](http://www.hup.harvard.edu/catalog.php?isbn=9780674724938). 
 
+Rockwell, G. and S. Sinclair (2016). *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press. [See also *Hermeneutica* web site.](http://hermeneuti.ca)
 
+Tufte, E. (1983). The Visual Display of Quantitative Information. Cheshire, CT, Graphics Press. [See also Tufte's web site.](https://www.edwardtufte.com/tufte/)
 
